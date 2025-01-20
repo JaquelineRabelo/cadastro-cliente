@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "aK+bqJkeKFwCAkmhzBvWcvH5ISoy8Rk2C3E/kArzzd8=",
+  "Source": "CadastroClientesAPI",
+  "BasePath": "_content/CadastroClientesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CadastroClientesAPI/wwwroot",
+      "Source": "CadastroClientesAPI",
+      "ContentRoot": "/workspaces/cadastro-cliente/CadastroClientesAPI/wwwroot/",
+      "BasePath": "_content/CadastroClientesAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/workspaces/cadastro-cliente/CadastroClientesAPI/wwwroot/index.html",
+      "SourceId": "CadastroClientesAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/cadastro-cliente/CadastroClientesAPI/wwwroot/",
+      "BasePath": "_content/CadastroClientesAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/workspaces/cadastro-cliente/CadastroClientesAPI/wwwroot/style.css",
+      "SourceId": "CadastroClientesAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/cadastro-cliente/CadastroClientesAPI/wwwroot/",
+      "BasePath": "_content/CadastroClientesAPI",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/style.css"
+    }
+  ]
+}
