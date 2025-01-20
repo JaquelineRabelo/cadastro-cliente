@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "/workspaces/cadastro-cliente/CadastroClientesAPI/wwwroot/index.html",
-      "PackagePath": "staticwebassets/index.html"
-    },
-    {
       "Id": "/workspaces/cadastro-cliente/CadastroClientesAPI/wwwroot/style.css",
       "PackagePath": "staticwebassets/style.css"
     },
