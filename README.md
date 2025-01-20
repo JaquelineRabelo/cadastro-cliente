@@ -14,3 +14,9 @@ Este é um projeto em C# para gerenciar o registo de clientes. O aplicativo perm
 - **Linguagem**: C#
 - **Framework**: ASP.NET Core
 - **Banco de Dados**: é Possível implementar SQL
+
+
+C#
+ASP.NET Core
+HTML/CSS
+JavaScript
